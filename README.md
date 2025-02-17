@@ -87,4 +87,26 @@ improvement. Potential enhancements include optimizing the architecture for real
 and integrating additional feature types for broader applicability. This project sets a benchmark for
 innovative phishing detection solutions, contributing significantly to the field of cybersecurity.
 10. Overall design of project
-![1 DATA HANDLING](https://github.com/user-attachments/assets/304bd81f-f06e-449b-a491-5d87bf0acdfe)
+
+![GAN](https://github.com/user-attachments/assets/a7233582-dfa6-42d5-8456-94b92ed412bd)
+
+
+![1 DATA HANDLING](https://github.com/user-attachments/assets/bb2d4456-d9a1-4f44-aca5-dc9cd755cdc3)
+
+![2 GENERATOR MODEL BUILD](https://github.com/user-attachments/assets/3e79c803-bb18-466c-964d-211f97641129)
+
+![3  DISCRIMINATOR BUILDING](https://github.com/user-attachments/assets/d5278079-198f-43ea-bd5a-e194e2d8dc34)
+
+![4  GAN MODEL COMPILATION](https://github.com/user-attachments/assets/867f2b06-9193-4505-931f-d11df51c1be2)
+
+
+![5  TRAING GAN](https://github.com/user-attachments/assets/5fb42298-81d6-4e70-b41c-a7714823afec)
+
+![6  SYN DATA GENERATION](https://github.com/user-attachments/assets/e86417d7-e9bd-4e2d-851d-80be490888a2)
+
+![7  MERGED DATASET CREATION](https://github.com/user-attachments/assets/c5570720-6339-4eca-9968-b73cb5246564)
+
+![ACCURACY CALCULATION](https://github.com/user-attachments/assets/a9fa864b-764e-4dff-b999-75dd1f079d42)
+
+
+
