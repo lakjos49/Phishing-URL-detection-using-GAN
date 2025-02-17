@@ -70,17 +70,7 @@ over 500 epochs.
 ensure effective training.
 ● Synthetic Data Generation: Generated 5,715 synthetic phishing features that closely mimic
 real phishing data.
-7. Division of Work Among Students
-1. Gautam Parihar:
-○ GAN model architecture and implementation.
-○ Training and hyperparameter tuning.
-○ Synthetic data analysis and merging and report preparation.
-2. Ram Pratap Singh:
-○ Synthetic data analysis and merging.
-○ Evaluation
-3. Lakshay Joshi:
-○ Dataset collection and preprocessing.
-○ Feature selection and initial data handling.
+
 8. Results
 ● Generator Output: 5,715 synthetic phishing data points closely mimicking real phishing
 features.
@@ -97,3 +87,4 @@ improvement. Potential enhancements include optimizing the architecture for real
 and integrating additional feature types for broader applicability. This project sets a benchmark for
 innovative phishing detection solutions, contributing significantly to the field of cybersecurity.
 10. Overall design of project
+![1 DATA HANDLING](https://github.com/user-attachments/assets/304bd81f-f06e-449b-a491-5d87bf0acdfe)
